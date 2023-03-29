@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="148px" viewBox="0 0 64 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ministereo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ministereo" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Shape" points="25.1560694 0 0 68.8092486 15.3526012 68.8092486 27.9306358 32.5549133 31.2601156 17.3872832 32.7398844 17.3872832 36.0693642 32.5549133 48.6473988 68.9942197 64 68.9942197 38.8439306 0"></polygon>
+            <polygon id="Shape" points="38.8439306 147.976879 64 79.1676301 48.6473988 79.1676301 36.0693642 115.606936 32.9248555 130.774566 31.4450867 130.774566 28.1156069 115.606936 15.5375723 79.1676301 0 79.1676301 25.3410405 147.976879"></polygon>
+            <path d="M40.5086705,73.9884393 C40.5086705,69.3641618 36.6242775,65.4797688 32,65.4797688 C27.3757225,65.4797688 23.6763006,69.3641618 23.6763006,73.9884393 C23.6763006,78.6127168 27.3757225,82.3121387 32,82.3121387 C36.6242775,82.3121387 40.5086705,78.6127168 40.5086705,73.9884393 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
